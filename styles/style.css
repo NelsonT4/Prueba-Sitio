@@ -1,6 +1,26 @@
+html {
+    font-size: 10px;
+    font-family: "Bebas Neue", sans-serif;
+    h1 {
+        font-size: 60px;
+        text-align: center;
+    }
+    img {
+        width: 100%;
+        aspect-ratio: 1937/1272;
+    }
+    h2 {
+        font-size: 30px;
+    }
+    p,
+    li {
+        font-size: 15px;
+        line-height: 2;
+        letter-spacing: 1px;
+    }
+}
 .bebas-neue-regular {
     font-family: "Bebas Neue", sans-serif;
     font-weight: 400;
     font-style: normal;
   }
-  
